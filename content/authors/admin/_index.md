@@ -34,6 +34,7 @@ profiles:
 interests:
   - Computational Laser and Plasma
   - Experimental Laser and Plasma
+  - Metamaterials and Plasmonics
   - Laboratory astrophysics
   - Optics
 
