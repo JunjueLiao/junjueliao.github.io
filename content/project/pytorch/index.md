@@ -1,13 +1,9 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Analytical Model of Burning Wave Propagation
+date: 2024-06-10
+#external_link: https://github.com/pytorch/pytorch
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Me and my friends Bohan Shen, Renjie He built an analytical model which give a solution of the burning wave with good performance.
 
 <!--more-->

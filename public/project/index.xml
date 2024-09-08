@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | cv</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Analitical Steepening Theory</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Build a model to analytically express the steepening front width directly by laser plasma paramters&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analytical Model of Burning Wave Propagation</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;Me and my friends Bohan Shen, Renjie He built an analytical model which give a solution of the burning wave with good performance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chirp during Phonton Acceleration</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Due to the inhomogeneity of acceleration gradient in photon acceleration, laser frequency will be modulated spacially&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

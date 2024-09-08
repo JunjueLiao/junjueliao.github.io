@@ -1,13 +1,9 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Analitical Steepening Theory
+date: 2024-09-04
+#external_link: https://github.com/scikit-learn/scikit-learn
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Build a model to analytically express the steepening front width directly by laser plasma paramters
 
 <!--more-->
