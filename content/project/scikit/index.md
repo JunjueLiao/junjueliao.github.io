@@ -1,9 +1,9 @@
 ---
-title: Analitical Steepening Theory
+title: Analytical Steepening Theory
 date: 2024-09-04
-#external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://arxiv.org/abs/2410.06532
 ---
 
-Build a model to analytically express the steepening front width directly by laser plasma paramters
+Built an analytic model of stable structures in ultra-intense laser interaction with underdense plasma. 
 
 <!--more-->
