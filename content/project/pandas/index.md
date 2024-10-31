@@ -5,6 +5,6 @@ date: 2024-04-10
 tags:
 ---
 
-Due to the inhomogeneity of acceleration gradient in photon acceleration, laser frequency will be modulated spacially
+Built a model to manipulate the laser spatiotemporally using the inhomogeneity of the accelerating field.
 
 <!--more-->
