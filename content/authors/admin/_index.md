@@ -32,11 +32,10 @@ profiles:
     label: E-mail Me
 
 interests:
-  - Computational Laser and Plasma
-  - Experimental Laser and Plasma
-  - Metamaterials and Plasmonics
+  - Laser-Plasma
+  - Plasma Physics
   - Laboratory astrophysics
-  - Optics
+  - Physics Optics
 
 education:
   - area: B.S Physics
@@ -53,7 +52,8 @@ work:
     #date_start: 2021-09-01
     #date_end: ''
     summary: |
-      Jun. 2024 - Sep. 2024: Working with Prof. <a href="https://www.aep.cornell.edu/faculty-directory/gennady-shvets">Gennady Shvets</a> at <a href="https://shvets.aep.cornell.edu/">Shvets Group</a> Cornell  as a research intern.
+      Jun. 2024 - Sep. 2024: 
+      Worked with Prof. <a href="https://www.aep.cornell.edu/faculty-directory/gennady-shvets">Gennady Shvets</a> at <a href="https://shvets.aep.cornell.edu/">Shvets Group</a> Cornell and built an analytic model of stable structures in ultra-intense laser interaction with underdense plasma.
   - position: Undergraduate Researcher in SJTU LLP
     company_name: Advised by JieZhang
     company_url: ''
@@ -61,7 +61,7 @@ work:
     #date_start: 2016-01-01
     #date_end: 2020-12-31
     summary: |
-      Oct. 2023 - Jun. 2024: Working with Bohan Shen and Renjie He on analysing the propagation process of hot spot ignition, under the guaidence of <a href="https://www.physics.sjtu.edu.cn/en/jsml/zhangjie.html">Jie Zhang</a>.
+      Oct. 2023 - Jun. 2024: Worked with Bohan Shen and Renjie He on analysing the propagation process of hot spot ignition and derived a relaxed detonation threshold, under the guaidence of Prof. <a href="https://www.physics.sjtu.edu.cn/en/jsml/zhangjie.html">Jie Zhang</a>.
   - position: Undergraduate Researcher in SJTU LLP
     company_name: Advised by Min Chen
     company_url: ''
@@ -69,7 +69,7 @@ work:
     #date_start: 2016-01-01
     #date_end: 2020-12-31
     summary: |
-      Sep. 2023 - Present: Working with Prof. <a href="https://www.physics.sjtu.edu.cn/en/jsml/chenmin.html">Min Chen</a> to study the chirp during photon acceleration.
+      Sep. 2023 - Jun. 2024: Worked with Prof. <a href="https://www.physics.sjtu.edu.cn/en/jsml/chenmin.html">Min Chen</a> and built a model to manipulate the laser spatiotemporally using the inhomogeneity of the accelerating field.
   - position: Intern in Shanghai Synchrotron Radiation Facility
     company_name: Advised by Xiaowei Wu
     company_url: ''
@@ -77,7 +77,7 @@ work:
     #date_start: 2016-01-01
     #date_end: 2020-12-31
     summary: |
-      Aug. 2023 - Sep. 2023: Working with researcher Xiaowei Wu to build a automatic accelerator cavity frequency measurement system
+      Aug. 2023 - Sep. 2023: Worked with researcher Xiaowei Wu to build a automatic accelerator cavity frequency measurement system
 
 
 # Skills
@@ -87,13 +87,13 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
+
 ---
 
 ## About Me
 
-Hi there! My name is Junjue Liao and I'm a undergraduate student at <b>Shanghai Jiao Tong University</b>, enrolled in <b>Physics Zhiyuan Honor Program Class</b>. Currently, I am fortunate to work with Prof. <a href="https://www.aep.cornell.edu/faculty-directory/gennady-shvets">Gennady Shvets</a> at <a href="https://shvets.aep.cornell.edu/">Shvets Group</a> Cornell  as a research intern.
+Hi there! My name is Junjue Liao and I'm a undergraduate student at <b>Shanghai Jiao Tong University</b>, enrolled in <b>Physics Zhiyuan Honor Program Class</b>. Lately, I was fortunate to work with Prof. <a href="https://www.aep.cornell.edu/faculty-directory/gennady-shvets">Gennady Shvets</a> at <a href="https://shvets.aep.cornell.edu/">Shvets Group</a> Cornell  as a research intern.
 
 Prviously, I had a wonderful time study laser-plasma theory as an undergraduate researcher advised by Prof. <a href="https://www.physics.sjtu.edu.cn/en/jsml/zhangjie.html">Jie Zhang</a> and Prof. <a href="https://www.physics.sjtu.edu.cn/en/jsml/chenmin.html">Min Chen</a> at <a href="https://llp.sjtu.edu.cn/En">SJTU-LLP</a>. I also had a fun time to build a automatic frequency measurement system for accelerator cavity at <a href="http://e-ssrf.sari.ac.cn/">SSRF</a> as a summer intern.
 
 I'm also looking for a physics Ph.D. position in 2025 Fall. Feel free to check out my CV and send me an <a href="mailto:junjueliao03@gmail.com">e-mail</a> if you want to contact me.
-
