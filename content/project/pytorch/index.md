@@ -1,5 +1,5 @@
 ---
-title: Analytical Model of Burning Wave Propagation
+title: Analytical Model of Relaxed Detonation Threshold
 date: 2024-06-10
 #external_link: https://github.com/pytorch/pytorch
 ---
