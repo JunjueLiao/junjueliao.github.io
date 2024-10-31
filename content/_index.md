@@ -35,7 +35,7 @@ sections:
     id: projects
     content:
       title: Selected Projects
-      text: Mainly fun theoretical works. All the work is being sorted out now to be published.
+      text: 
       filters:
         folders:
           - project
